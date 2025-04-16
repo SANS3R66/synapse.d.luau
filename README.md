@@ -1,5 +1,5 @@
 # synapse.d.luau
-types for synapse env  
+types for synapse env (you use it with [Luau LSP](https://github.com/JohnnyMorganz/luau-lsp))  
 have fun  
 this **DOESNT** include:
 
