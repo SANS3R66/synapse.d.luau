@@ -7,7 +7,7 @@ console library
 some of crypt functions (only base64)  
 drawing
 
-### why?
+### why ^?
 cause bro its 2025 and noone needs that (excluding drawing maybe but im lazy to add it)
 
 ### credits
